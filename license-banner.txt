@@ -1,0 +1,5 @@
+/**
+ * @license Tom Schreck v1.0.0
+ * (c) 2016 Tom Schreck https://github.com/SolutiaConsulting/ng2-tweet
+ * License: MIT
+ */
