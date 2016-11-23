@@ -1,6 +1,6 @@
 {
   "name": "ng2-tweet",
-  "version": "0.0.1",
+  "version": "0.0.16",
   "description": "Angular2 component for displaying a Twitter Tweet",
   "author": "Tom Schreck <tom_schreck@solutiaconsulting.com> (http://solutiaconsulting.com)",
   "homepage": "https://github.com/SolutiaConsulting/ng2-tweet#readme",  
